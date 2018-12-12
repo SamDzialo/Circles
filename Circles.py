@@ -1,9 +1,7 @@
 """
-file: Circles.py
 author: Sam Dzialo
 Email: sad8333@rit.edu
 language: python3.7
-description: Circles Turtle
 """
 import turtle as tt
 
